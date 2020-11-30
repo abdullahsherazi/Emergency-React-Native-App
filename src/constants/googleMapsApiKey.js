@@ -1,1 +1,1 @@
-export const googleMapsApiKey = ''; // put your own server key here
+export const googleMapsApiKey = ''; // put your own gogle map api key here
